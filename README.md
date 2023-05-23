@@ -14,7 +14,7 @@ work either because of the Laravel update or updates to the PostcodeNL API pleas
 Pull the package in through Composer:
 
 ```bash
-composer require speelpenning/laravel-postcode-nl
+composer require pimoudeveldhuis/laravel-postcode-nl
 ```
 
 Next, register an account with Postcode.nl to obtain a key and secret. See https://api.postcode.nl/#register for 
