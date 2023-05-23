@@ -5,6 +5,10 @@
 
 A client using the Postcode.nl REST API for Dutch address verification.
 
+All the work for this package has been done by Gerben Speelpenning, I merely updated to composer.json to make it
+work with Laravel 10 and submitted it to Packagist for easy installation, but if there is anything that does not
+work either because of the Laravel update or updates to the PostcodeNL API please let me know so I can fix them!
+
 ## Installation 
 
 Pull the package in through Composer:
